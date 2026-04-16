@@ -15,7 +15,7 @@
 
 | ☁️ Cloud & Infra | 🔒 Cybersecurity | 📊 Data & Analytics |
 |:---:|:---:|:---:|
-| AWS · cloud architecture · deployment | network defense · incident response · threat analysis | visualization · statistical analysis · reporting |
+| AWS · cloud architecture · deployment · AI/ML | network defense · incident response · threat analysis | visualization · statistical analysis · reporting |
 
 ---
 
@@ -31,6 +31,7 @@
 **Cloud & Infrastructure**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![AWS AI/ML](https://img.shields.io/badge/AWS_AI/ML-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
 
