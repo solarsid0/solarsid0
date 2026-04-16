@@ -3,7 +3,7 @@
 ⋆⁺｡˚⋆˙‧₊☽ ◯ ☾₊‧˙⋆˚｡⁺⋆
 # HELENA T. 
 
-`cloud` · `security` · `data` | “Currently building & learning (with coffee and milk tea breaks) 🥤 
+`cloud` · `security` · `data` | Currently building & learning (with coffee and milk tea breaks) 🥤 
 
 **COURSE: BSIT - Major in Network and Cybersecurity**
 
